@@ -2,6 +2,11 @@
 
 App Path Animation use flutter, app draw path with animation
 
+#### Demo:
+https://github.com/user-attachments/assets/7dd7bffa-b0c8-4a23-ae7a-e5c6f7d2a91b
+
+
+
 #### Flutter Version
 
 Flutter 3.24.4 • channel stable • https://github.com/flutter/flutter.git
